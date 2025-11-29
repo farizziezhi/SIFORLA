@@ -47,6 +47,7 @@ Web SIFORLA (Sistem Informasi Sekolah) adalah web yang original dibuat oleh <a h
 -   laravel v11
 -   web server (XAMPP/Laragon)
 -   [node js](https://nodejs.org/en/download)
+-   [composer](https://getcomposer.org/download/)
 -   MySQL
 
 ### Langkah-langkah :
